@@ -14,7 +14,7 @@
 :root{
     --bg-color: #1a0e29;
     --second-bg-color:#1a0e29;
-    --third-bg-color: #2222247e;
+    --third-bg-color:#00fff211;
     --text-color: #ebebfa ;
     --main-color: #1ce4f7;
 }
@@ -484,6 +484,18 @@ span {
     width: 80%;
 }
 
+.contact {
+    min-height: auto;
+    padding-bottom: 7rem;
+}
 
+.contact form {
+    max-width: 70rem;
+    margin: 0 auto;
+    text-align: center;
+}
 
+.contact form .input-box {
+    
+}
 
