@@ -99,7 +99,7 @@ section {
 }
 .home-content .text-animate{
     position: relative;
-    width: 32.8rem;
+    width: auto;
 }
 .home-content .text-animate h3 {
     font-size: 3.2rem;
